@@ -1,5 +1,5 @@
 📜 Certificate Generation Automation (Python)
-🚀 Overview
+ Overview
 
 This Python script automatically generates personalized certificates from an Excel workbook.
 
@@ -48,21 +48,8 @@ openpyxl – Excel file handling
 tkinter – File selection dialog
 
 
-project-folder/
-│
-├── certificates.png        # Certificate template image
-├── Lora-Bold.ttf           # Font file
-├── generate_certificates.py
-│
-└── All_Certificates/
-    ├── Images/
-    │   ├── ACM001.png
-    │   ├── ACM002.png
-    │   └── ...
-    └── PDFs/
-        ├── ACM001.pdf
-        ├── ACM002.pdf
-        └── ...
+![Uploading image.png…]()
+
 
 
 ⚙️ Installation (A–Z Step by Step)
