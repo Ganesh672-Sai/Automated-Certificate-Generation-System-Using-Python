@@ -1,19 +1,32 @@
 📜 Certificate Generation Automation (Python)
 🚀 Overview
+
 This Python script automatically generates personalized certificates from an Excel workbook.
+
 For each participant:
+
 The name is read from Excel
+
 The name is centered and printed on a certificate template
+
 A PNG image is generated
+
 The image is converted into a PDF
+
 Files are neatly organized into folders
+
 This is ideal for:
+
 Events & workshops
+
 Colleges & clubs
+
 Hackathons & seminars
+
 ACM / IEEE / student chapters
 
 🧩 Features
+
 ✅ Reads participant data from Excel (.xlsx)
 ✅ Automatically creates folders
 ✅ Writes names on certificate image
@@ -23,10 +36,15 @@ ACM / IEEE / student chapters
 ✅ Works completely offline
 
 🛠️ Technologies Used
+
 Python 3
+
 Pillow (PIL) – Image processing
+
 img2pdf – Image → PDF conversion
+
 openpyxl – Excel file handling
+
 tkinter – File selection dialog
 
 project-folder/
