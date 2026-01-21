@@ -47,6 +47,7 @@ openpyxl – Excel file handling
 
 tkinter – File selection dialog
 
+
 project-folder/
 │
 ├── certificates.png        # Certificate template image
@@ -63,25 +64,36 @@ project-folder/
         ├── ACM002.pdf
         └── ...
 
+
 ⚙️ Installation (A–Z Step by Step)
 1️⃣ Install Python
+
 Download and install Python 3.8 or above
 👉 https://www.python.org/downloads/
+
 ✔️ Make sure “Add Python to PATH” is checked
 
 2️⃣ Clone or Download Project
 git clone <your-repo-link>
+
+
 OR
 Download ZIP and extract it
 
 3️⃣ Install Required Libraries
+
 The script auto-installs dependencies, but you can manually install them:
+
 pip install img2pdf openpyxl pillow
 
 4️⃣ Required Files (Must Have)
+
 Place these files in the same folder as the script:
+
 certificates.png → Certificate background
+
 Lora-Bold.ttf → Font file
+
 Excel workbook (.xlsx)
 
  ##### Automated-Certificate-Generation-System-Using-Python
