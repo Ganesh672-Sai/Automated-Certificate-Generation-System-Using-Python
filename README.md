@@ -9,7 +9,7 @@ The name is read from Excel
 
 The name is centered and printed on a certificate template
 
-A PNG image is generated
+A PNG image is generated 
 
 The image is converted into a PDF
 
